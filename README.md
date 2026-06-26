@@ -156,7 +156,15 @@ The interactive dashboard includes:
   * Sales by Age Group
 
 ---
+# Dashboard Preview
 
+> Add your dashboard screenshot here.
+
+```
+Dashboard/dashboard.png
+```
+
+---
 ## Project Workflow
 
 ```
