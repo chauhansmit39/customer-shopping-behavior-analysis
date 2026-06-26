@@ -157,9 +157,6 @@ The interactive dashboard includes:
 
 ---
 # Dashboard Preview
-
-> Add your dashboard screenshot here.
-
 ```
 Dashboard/dashboard.png
 ```
