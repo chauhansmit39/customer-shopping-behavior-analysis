@@ -157,9 +157,9 @@ The interactive dashboard includes:
 
 ---
 # Dashboard Preview
-```
+
 ![Home](Dashboard/dashboard.png)
-```
+
 
 ---
 ## Project Workflow
