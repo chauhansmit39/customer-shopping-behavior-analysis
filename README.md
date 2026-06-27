@@ -158,7 +158,7 @@ The interactive dashboard includes:
 ---
 # Dashboard Preview
 ```
-Dashboard/dashboard.png
+![Home](Dashboard/dashboard.png)
 ```
 
 ---
